@@ -1,6 +1,6 @@
 Hello everyone
 
-This is my submission for Fronted Task for Bajaj Finserv Health Qualifier 1 from VIT University 
+This is my submission for Frontend Task for Bajaj Finserv Health Qualifier 1 from VIT University 
 
 College - VIT Bhopal University
 Name - Hriday Sehgal
