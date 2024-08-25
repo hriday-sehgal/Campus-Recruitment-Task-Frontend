@@ -28,8 +28,8 @@ function App() {
                 throw new Error('The input must be a JSON array.');
             }
 
-            // Send the request to the backend
-            const res = await axios.post('http://localhost:3001/bfhl', { data: validJson });
+            // Send the request to the backend using the deployed URL
+            const res = await axios.post('https://bajaj-finserv-health-backend-task.onrender.com/bfhl', { data: validJson });
             setResponse(res.data);
         } catch (error) {
             console.error('Error:', error.message);
