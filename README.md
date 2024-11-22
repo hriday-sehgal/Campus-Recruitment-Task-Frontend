@@ -10,7 +10,7 @@ College Roll Number - 21BHI10024
 
 Frontend Deployed Link - https://bajajfinservhealthhridaysehgal.onrender.com/
 
-Repository Disclaimer - 
+Disclaimer - 
 
 This repository is an unofficial project and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Bajaj Finserv Limited or any of its subsidiaries, including Bajaj Finserv Health.
 
